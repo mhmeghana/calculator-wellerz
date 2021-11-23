@@ -1,0 +1,14 @@
+.container {
+  display: block;
+  background: #ccc;
+  padding: 10px;
+  /* width: px; */
+}
+
+.display {
+  border: 1px solid lightgray;
+  width: 100px;
+  height: 20px;
+  text-align: right;
+  margin-bottom: 15px;
+}
